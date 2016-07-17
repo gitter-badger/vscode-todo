@@ -1,5 +1,7 @@
 # TODO extension for Visual Studio Code
 
+[![Join the chat at https://gitter.im/MattiasPernhult/vscode-todo](https://badges.gitter.im/MattiasPernhult/vscode-todo.svg)](https://gitter.im/MattiasPernhult/vscode-todo?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This extension adds functionality to list TODO:s in the project:
 
 - Choosing language
